@@ -1,0 +1,27 @@
+# compilation and distribution
+__pycache__
+*.pyc
+*.egg-info/
+
+# MacOS
+*.DS_Store
+
+# Pycharm editor settings
+.idea
+
+# VSCode editor settings
+.vscode
+
+
+
+octo/
+datasets/
+ManiSkill/mp_collect/
+openvla/checkpoints/
+openvla/wandb/
+SimplerEnv/octo_collect/
+SimplerEnv/wandb/
+SimplerEnv/video/
+SimplerEnv/*.mp4
+
+VLAC/evo_vlac/examples/
